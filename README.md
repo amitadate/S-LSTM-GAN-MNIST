@@ -1,3 +1,19 @@
+# Bib-Tex to Cite our Paper 
+
+@inproceedings{adate2019s,
+  title={S-LSTM-GAN: Shared Recurrent Neural Networks with Adversarial Training},
+  author={Adate, Amit and Tripathy, BK},
+  booktitle={Proceedings of the 2nd International Conference on Data Engineering and Communication Technology: ICDECT 2017},
+  pages={107},
+  year={2019},
+  organization={Springer}
+}
+
+# Link to paper 
+
+https://link.springer.com/chapter/10.1007/978-981-13-1610-4_11
+
+
 # LSTM-GAN-MNIST
 
 Using the MNIST set to experiment with GANs using LSTM's 

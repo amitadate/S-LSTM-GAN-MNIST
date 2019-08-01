@@ -1,10 +1,10 @@
 # LSTM-GAN-MNIST
 
-# Link to the paper, visit: [Link](https://link.springer.com/chapter/10.1007/978-981-13-1610-4_11)
+## Link to the paper, visit: [Link](https://link.springer.com/chapter/10.1007/978-981-13-1610-4_11)
 
-# To easily cite our Paper, visit : [Link](https://link.springer.com/chapter/10.1007/978-981-13-1610-4_11#citeas)
+## To easily cite our Paper, visit : [Link](https://link.springer.com/chapter/10.1007/978-981-13-1610-4_11#citeas)
 
-# Brief description: 
+## Brief description: 
 
 Using the MNIST set to experiment with GANs using LSTM's 
 

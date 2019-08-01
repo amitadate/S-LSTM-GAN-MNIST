@@ -3,9 +3,17 @@ import numpy as np
 import matplotlib
 matplotlib.use('Agg') # Force matplotlib to not use any Xwindows backend.
 import matplotlib.pyplot as plt
+import os 
+
+#paths
+source = os.getcwd()
+data_path = source + '/data'
+
+
+
 
 from tensorflow.examples.tutorials.mnist import input_data
-mnist = input_data.read_data_sets("D:/Projects/S-LSTM-GAN/data", one_hot=True)
+mnist = input_data.read_data_sets(data_path, one_hot=True)
 
 class RNN_MNIST_model(object):
 	def __init__(self, config, is_training = True, model_type="FULL"):

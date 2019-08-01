@@ -1,18 +1,14 @@
-# To easily cite our Paper 
-
-https://link.springer.com/chapter/10.1007/978-981-13-1610-4_11#citeas
-
-
-# Link to paper 
-
-https://link.springer.com/chapter/10.1007/978-981-13-1610-4_11
-
-
 # LSTM-GAN-MNIST
+
+# Link to the paper, visit: [Link](https://link.springer.com/chapter/10.1007/978-981-13-1610-4_11)
+
+# To easily cite our Paper, visit : [Link](https://link.springer.com/chapter/10.1007/978-981-13-1610-4_11#citeas)
+
+# Brief description: 
 
 Using the MNIST set to experiment with GANs using LSTM's 
 
-![alt text](https://github.com/jarmstrong2/RNN_GAN_experiment/blob/master/images/faster_transition_smaller.gif)
+![alt text](https://github.com/amitadate/S-LSTM-GAN-MNIST/blob/master/images/faster_gif.gif)
 
 Model
 =====
